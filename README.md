@@ -2,5 +2,5 @@
 
 A simple emulator for the CHIP-8.
 
-![Demo](https://austinmorlan.com/posts/chip8_emulator/media/demo.gif)
+![Demo](https://github.com/Thudles/chip8-emulator/blob/main/Source/demo.gif)
 
